@@ -1,0 +1,5 @@
+name: OpenAIPlugin
+     version: 1.0.0
+     api: 4.0.0
+     main: DentoiGaming\OpenAIPlugin\Main
+     author: DentoiGaming
